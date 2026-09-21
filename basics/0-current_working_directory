@@ -1,0 +1,3 @@
+#!/bin/bash
+ruta=$(pwd)
+echo "$ruta"
