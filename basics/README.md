@@ -1,3 +1,3 @@
 #Proyecto introduccion de shell
 
-	El archivo en esta carpeta, al ser ejecutado, muestra la ruta absoluta del directorio de trabajo actual.
+	En esta carpeta se listan los archivos que, al ejecutarse, usan c√digo simple dictado por las tareas.
